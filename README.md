@@ -13,6 +13,7 @@
 ### ⚡ About
 
 - 🧑‍💻 Frontend developer at **amoCRM**, Moscow
+- 🌐 Portfolio — **[mcar2107.github.io](https://mcar2107.github.io/)**: case studies from amoCRM and my projects
 - 🧩 Build browser extensions, Telegram bots and small tools that solve my own problems
 - 🦀 Learning Rust in my spare time
 
